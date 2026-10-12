@@ -62,13 +62,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
 </p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1F0B45&section=footer&animation=twinkling" width="100%" alt="footer"/>
-
-</div>
-
-
 ## Let's Connect
 
 I'm actively looking for **internship / fresher opportunities** in web development.
@@ -78,6 +71,6 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/sabari-s-sabari-78723432b) or
 
 ⭐ If you like my work, drop a star on my repositories!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,12,20&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1F0B45&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
 </div>
