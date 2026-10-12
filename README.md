@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- Header banner (animated wave, same navy → violet → mint palette) -->
+<div align="center">
 
-<!--
-**Sabaririshi2006/Sabaririshi2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,12,20&text=Sabari%20Rishi&fontSize=58&fontColor=E8EEF8&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%7C%20HTML%20%C2%B7%20CSS%20%C2%B7%20JavaScript&descSize=20&descAlignY=60&descColor=4FE3C1" alt="Sabari Rishi banner" />
 
-Here are some ideas to get you started:
+<!-- Typing animation -->
+<a href="https://github.com/Sabaririshi2006">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=4FE3C1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sabari+Rishi+%F0%9F%91%8B;I+build+clean+and+responsive+websites;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Always+learning%2C+always+shipping" alt="Typing animation" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://github.com/Sabaririshi2006"><img src="https://komarev.com/ghpvc/?username=Sabaririshi2006&label=Profile+views&color=7C6CFF&style=flat-square" alt="Profile views" /></a>
+<a href="https://github.com/Sabaririshi2006?tab=followers"><img src="https://img.shields.io/github/followers/Sabaririshi2006?style=flat-square&color=4FE3C1&labelColor=080E1C" alt="Followers" /></a>
+
+</div>
+
+---
+
+### 👨‍💻 About me
+
+- 🌐 I build modern, responsive websites with HTML, CSS and JavaScript.
+- 🎨 I enjoy clean UI design and smooth animations.
+- 🌱 Currently learning and building more projects every week.
+- 📫 Reach me through GitHub: [@Sabaririshi2006](https://github.com/Sabaririshi2006)
+
+---
+
+### 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-080E1C?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-080E1C?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-080E1C?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Git-080E1C?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-080E1C?style=for-the-badge&logo=github&logoColor=E8EEF8" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-080E1C?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+
+</div>
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sabaririshi2006&show_icons=true&hide_border=true&bg_color=080E1C&title_color=4FE3C1&icon_color=7C6CFF&text_color=E8EEF8" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabaririshi2006&layout=compact&hide_border=true&bg_color=080E1C&title_color=4FE3C1&text_color=E8EEF8" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabaririshi2006&hide_border=true&background=080E1C&ring=4FE3C1&fire=7C6CFF&currStreakNum=E8EEF8&currStreakLabel=4FE3C1&sideNums=E8EEF8&sideLabels=8FA0BF&dates=8FA0BF" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabaririshi2006&bg_color=080E1C&color=E8EEF8&line=4FE3C1&point=7C6CFF&area=true&area_color=4FE3C1&hide_border=true" alt="Contribution graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If you like my work, drop a star on my repositories!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,12,20&section=footer" alt="footer" />
+
+</div>
