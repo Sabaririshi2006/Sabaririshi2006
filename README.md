@@ -53,18 +53,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- IMPORTANT: Replace every YOUR_... placeholder with your real project details. Pin these repos on your profile too. -->
-
-| Project | What it does | Tech | Links |
-|---|---|---|---|
-| **YOUR_PROJECT_1** | One line: what problem it solves | HTML · CSS · JS | [Live](https://YOUR_LIVE_LINK) · [Code](https://github.com/Sabaririshi2006/YOUR_REPO_1) |
-| **YOUR_PROJECT_2** | One line: what problem it solves | HTML · CSS · JS | [Live](https://YOUR_LIVE_LINK) · [Code](https://github.com/Sabaririshi2006/YOUR_REPO_2) |
-| **YOUR_PROJECT_3** | One line: what problem it solves | React | [Live](https://YOUR_LIVE_LINK) · [Code](https://github.com/Sabaririshi2006/YOUR_REPO_3) |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
