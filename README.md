@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="header.svg" width="100%" alt="header" />
+
 <img src="https://raw.githubusercontent.com/Sabaririshi2006/Sabaririshi2006/main/assets/header.svg" alt="Sabari Rishi - Web Developer" width="100%"/>
 
 <a href="https://github.com/Sabaririshi2006">
