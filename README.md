@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://hits.sh/github.com/Sabaririshi2006.svg?style=flat-square&color=7C6CFF&label=Profile+views" alt="Profile views" />
+<img src="https://hits.sh/github.com/Sabaririshi2006.svg?style=for-the-badge&color=FFD86B&label=Profile+views" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Sabaririshi2006?style=for-the-badge&color=FFD86B&labelColor=0B0720" alt="Followers"/>
 
 <br/><br/>
