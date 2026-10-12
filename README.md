@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="header" alt="Sabari Saravaran - Web Developer" width="100%"/>
+<img src="header.svg" width="100%" alt="header" />
 
 <a href="https://github.com/Sabaririshi2006">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=4FE3C1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sabari+Rishi+%F0%9F%91%8B;I+build+clean+and+responsive+websites;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Always+learning%2C+always+shipping" alt="Typing animation" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=4FE3C1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sabari+Saravanan+%F0%9F%91%8B;I+build+clean+and+responsive+websites;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Always+learning%2C+always+shipping" alt="Typing animation" /> 
 </a>
 
 <br/>
