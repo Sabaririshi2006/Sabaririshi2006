@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="header" alt="Sabari Rishi - Web Developer" width="100%"/>
+<img src="header.svg" width="100%" alt="header" alt="Sabari Saravaran - Web Developer" width="100%"/>
 
 <a href="https://github.com/Sabaririshi2006">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFD86B&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I'm+Sabari+Rishi+%F0%9F%91%8B;Student+%7C+Dharmapuri;HTML+%C2%B7+CSS+%C2%B7+JavaScript;I+love+clean+UI+and+smooth+animations;Learning+something+new+every+week" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFD86B&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I'm+Sabari+Saravanan+%F0%9F%91%8B;Student+%7C+Dharmapuri;HTML+%C2%B7+CSS+%C2%B7+JavaScript;I+love+clean+UI+and+smooth+animations;Learning+something+new+every+week" alt="Typing animation"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sabaririshi2006&label=Profile+views&color=FF6EC7&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/ghpvc/?username=Sabaririshi2006&label=Profile+views&color=FF6EC7&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/Sabaririshi2006?style=for-the-badge&color=FFD86B&labelColor=0B0720" alt="Followers"/>
 
 <br/><br/>
@@ -20,8 +20,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FFD86B" width="100%" alt="divider"/>
 
 </div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=60000&color=FF6EC7&width=320&height=45&lines=%2F%2F+About+me" alt="About me"/>
 
 ## About me
 
@@ -39,26 +37,26 @@
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=600&color=FFD86B&width=330&height=130&lines=const+sabari+%3D+%7B;++role%3A+%22Web+Developer%22%2C;++stack%3A+%5B%22HTML%22%2C+%22CSS%22%2C+%22JS%22%5D%2C;++location%3A+%22Dharmapuri%22%2C;++learning%3A+%22every+week%22;%7D%3B" alt="Code typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=600&color=neon&width=330&height=130&lines=const+sabari+%3D+%7B;++role%3A+%22Web+Developer%22%2C;++stack%3A+%5B%22HTML%22%2C+%22CSS%22%2C+%22JS%22%5D%2C;++location%3A+%22Dharmapuri%22%2C;++learning%3A+%22every+week%22;%7D%3B" alt="Code typing"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=60000&color=FF6EC7&width=320&height=45&lines=%2F%2F+Tech+stack" alt="Tech stack"/>
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Tech stack icons"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=60000&color=FF6EC7&width=320&height=45&lines=%2F%2F+Contributions" alt="Contributions"/>
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sabaririshi2006/Sabaririshi2006/output/github-snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Sabaririshi2006/Sabaririshi2006/output/github-snake.svg">
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=60000&color=FF6EC7&width=320&height=45&lines=%2F%2F+Thought+of+the+day" alt="Quote"/>
+## Thought Of The Day
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
@@ -67,7 +65,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1F0B45&section=footer&animation=twinkling" width="100%" alt="footer"/>
-
 
 </div>
 
