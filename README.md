@@ -1,7 +1,7 @@
 <!-- Header banner (animated wave, same navy → violet → mint palette) -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,12,20&text=Sabari%20Rishi&fontSize=58&fontColor=E8EEF8&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%7C%20HTML%20%C2%B7%20CSS%20%C2%B7%20JavaScript&descSize=20&descAlignY=60&descColor=4FE3C1" alt="Sabari Rishi banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,12,20&text=Sabari%20Saravanan&fontSize=58&fontColor=E8EEF8&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%7C%20HTML%20%C2%B7%20CSS%20%C2%B7%20JavaScript&descSize=20&descAlignY=60&descColor=4FE3C1" alt="Sabari Saravanan banner" />
 
 <!-- Typing animation -->
 <a href="https://github.com/Sabaririshi2006">
