@@ -23,6 +23,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=60000&color=FF6EC7&width=320&height=45&lines=%2F%2F+About+me" alt="About me"/>
 
+## About me
+
 <table>
 <tr>
 <td width="55%" valign="top">
