@@ -1,88 +1,48 @@
-<!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=0,2,12,20&text=Sabari%20Saravanan&fontSize=60&fontColor=E8EEF8&fontAlignY=36&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Problem%20Solver&descSize=20&descAlignY=60&descColor=4FE3C1" alt="Sabari Rishi banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=0,2,12,20&text=Sabari%20Rishi&fontSize=60&fontColor=E8EEF8&fontAlignY=38&animation=twinkling&desc=Web%20Developer%20in%20the%20making&descSize=20&descAlignY=60&descColor=4FE3C1" alt="Sabari Rishi banner" width="100%"/>
 
 <a href="https://github.com/Sabaririshi2006">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=4FE3C1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sabari+Saravanan+%F0%9F%91%8B;I+build+clean+and+responsive+websites;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Open+to+internships+%26+entry-level+roles+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=2800&pause=900&color=4FE3C1&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Sabari+Rishi;Student+%7C+Dharmapuri;HTML+%C2%B7+CSS+%C2%B7+JavaScript;I+love+clean+UI+and+smooth+animations;Learning+something+new+every+week" alt="Typing animation"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sabaririshi2006&label=Profile+views&color=7C6CFF&style=flat-square" alt="Profile views" />
-<a href="https://github.com/Sabaririshi2006?tab=followers"><img src="https://img.shields.io/github/followers/Sabaririshi2006?style=flat-square&color=4FE3C1&labelColor=080E1C" alt="Followers" /></a>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-4FE3C1?style=flat-square&labelColor=080E1C" alt="Open to work" />
+<img src="https://komarev.com/ghpvc/?username=Sabaririshi2006&label=Profile+views&color=7C6CFF&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Sabaririshi2006?style=for-the-badge&color=4FE3C1&labelColor=080E1C" alt="Followers"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sabari-s-sabari-78723432b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/Sabaririshi/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="https://www.codechef.com/users/herd_door_36"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://www.linkedin.com/in/sabari-s-sabari-78723432b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Sabaririshi/"><img src="https://img.shields.io/badge/LeetCode-1E2327?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="https://www.codechef.com/users/herd_door_36"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,12,20" width="100%" alt="divider"/>
 
 </div>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=60000&color=4FE3C1&width=300&height=45&lines=About+me" alt="About me"/>
 
-## 👨‍💻 About Me
-
-- 🎓 Student from **Dharmapuri, Tamil Nadu**, passionate about web development
-- 🌐 I build modern, responsive websites with **HTML, CSS and JavaScript**
+- 🎓 Student from Dharmapuri, learning front-end web development
+- 🌐 I build modern, responsive websites with HTML, CSS and JavaScript
 - 🎨 I enjoy clean UI design and smooth animations
-- 🧠 I practice problem solving on **LeetCode** and **CodeChef**
-- 🌱 Currently learning: **React**, **Git workflows**, **Data Structures & Algorithms**
-- 🎯 Looking for: **Internship / Fresher Frontend Developer** opportunities
+- 🧩 I practise problem solving on LeetCode and CodeChef
+- 🌱 Learning and building more projects every week
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sabari-s-sabari-78723432b)
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=60000&color=4FE3C1&width=300&height=45&lines=Tech+stack" alt="Tech stack"/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-080E1C?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-080E1C?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-080E1C?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/React-080E1C?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind-080E1C?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/Git-080E1C?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-080E1C?style=for-the-badge&logo=github&logoColor=E8EEF8" />
-<img src="https://img.shields.io/badge/VS%20Code-080E1C?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-
-</div>
-
-> 💡 Remove React / Tailwind badges if you haven't used them yet. Only keep what you can talk about in an interview.
-
----
-
-## 📊 GitHub Stats
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Tech stack icons"/>
+</p>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sabaririshi2006&show_icons=true&hide_border=true&bg_color=080E1C&title_color=4FE3C1&icon_color=7C6CFF&text_color=E8EEF8" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabaririshi2006&layout=compact&hide_border=true&bg_color=080E1C&title_color=4FE3C1&text_color=E8EEF8" alt="Top languages" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,12,20&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabaririshi2006&hide_border=true&background=080E1C&ring=4FE3C1&fire=7C6CFF&currStreakNum=E8EEF8&currStreakLabel=4FE3C1&sideNums=E8EEF8&sideLabels=8FA0BF&dates=8FA0BF" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabaririshi2006&bg_color=080E1C&color=E8EEF8&line=4FE3C1&point=7C6CFF&area=true&area_color=4FE3C1&hide_border=true" alt="Contribution graph" />
+⭐ If you like my work, drop a star on my repositories!
 
 </div>
-
----
-
-## 🧩 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Sabaririshi/">
-  <img src="https://leetcard.jacoblin.cool/Sabaririshi?theme=dark&font=Space%20Grotesk&ext=heatmap" alt="LeetCode stats" />
-</a>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
