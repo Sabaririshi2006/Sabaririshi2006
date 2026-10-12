@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=0,2,12,20&text=Sabari%20Rishi&fontSize=60&fontColor=E8EEF8&fontAlignY=38&animation=twinkling&desc=Web%20Developer%20in%20the%20making&descSize=20&descAlignY=60&descColor=4FE3C1" alt="Sabari Rishi banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=0,2,12,20&text=Sabari%20Saravanan&fontSize=60&fontColor=E8EEF8&fontAlignY=38&animation=twinkling&desc=Web%20Developer%20in%20the%20making&descSize=20&descAlignY=60&descColor=4FE3C1" alt="Sabari Rishi banner" width="100%"/>
 
 <a href="https://github.com/Sabaririshi2006">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=2800&pause=900&color=4FE3C1&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Sabari+Rishi;Student+%7C+Dharmapuri;HTML+%C2%B7+CSS+%C2%B7+JavaScript;I+love+clean+UI+and+smooth+animations;Learning+something+new+every+week" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=2800&pause=900&color=4FE3C1&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Sabari+Saravanan;Student+%7C+Dharmapuri;HTML+%C2%B7+CSS+%C2%B7+JavaScript;I+love+clean+UI+and+smooth+animations;Learning+something+new+every+week" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -39,8 +39,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,12,20&section=footer&animation=twinkling" width="100%" alt="footer"/>
-
-⭐ If you like my work, drop a star on my repositories!
 
 </div>
 
