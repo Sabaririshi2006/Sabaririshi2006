@@ -68,17 +68,8 @@
 
 </div>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sabaririshi2006/Sabaririshi2006/output/github-snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Snake needs a one-time GitHub Action setup (Platane/snk). Remove this section if you skip it. -->
-
----
-
-## 📫 Let's Connect
+## Let's Connect
 
 I'm actively looking for **internship / fresher opportunities** in web development.
 Reach me on [LinkedIn](https://www.linkedin.com/in/sabari-s-sabari-78723432b) or drop a message via GitHub.
