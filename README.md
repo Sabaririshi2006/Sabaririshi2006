@@ -3,7 +3,7 @@
 <img src="header.svg" width="100%" alt="header" alt="Sabari Saravaran - Web Developer" width="100%"/>
 
 <a href="https://github.com/Sabaririshi2006">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=#333333&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I'm+Sabari+Saravanan+%F0%9F%91%8B;Student+%7C+Dharmapuri;HTML+%C2%B7+CSS+%C2%B7+JavaScript;I+love+clean+UI+and+smooth+animations;Learning+something+new+every+week" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=#FFFF4&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I'm+Sabari+Saravanan+%F0%9F%91%8B;Student+%7C+Dharmapuri;HTML+%C2%B7+CSS+%C2%B7+JavaScript;I+love+clean+UI+and+smooth+animations;Learning+something+new+every+week" alt="Typing animation"/>
 </a>
 
 <br/>
