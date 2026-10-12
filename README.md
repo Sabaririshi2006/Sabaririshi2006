@@ -87,7 +87,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sabaririshi2006/Sabaririshi2006/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Sabaririshi2006/Sabaririshi2006/output/github-snake.svg" alt="Snake animation" />
 </div>
 
 <!-- Snake needs a one-time GitHub Action setup (Platane/snk). Remove this section if you skip it. -->
