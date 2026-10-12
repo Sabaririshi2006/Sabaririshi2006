@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="header" />
-
-<img src="https://raw.githubusercontent.com/Sabaririshi2006/Sabaririshi2006/main/assets/header.svg" alt="Sabari Rishi - Web Developer" width="100%"/>
+<img src="header.svg" width="100%" alt="header" alt="Sabari Rishi - Web Developer" width="100%"/>
 
 <a href="https://github.com/Sabaririshi2006">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFD86B&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I'm+Sabari+Rishi+%F0%9F%91%8B;Student+%7C+Dharmapuri;HTML+%C2%B7+CSS+%C2%B7+JavaScript;I+love+clean+UI+and+smooth+animations;Learning+something+new+every+week" alt="Typing animation"/>
