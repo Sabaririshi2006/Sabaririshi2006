@@ -37,7 +37,7 @@
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=600&color=neon&width=330&height=130&lines=const+sabari+%3D+%7B;++role%3A+%22Web+Developer%22%2C;++stack%3A+%5B%22HTML%22%2C+%22CSS%22%2C+%22JS%22%5D%2C;++location%3A+%22Dharmapuri%22%2C;++learning%3A+%22every+week%22;%7D%3B" alt="Code typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=600&color=Bright Purple-Blue Accent&width=330&height=130&lines=const+sabari+%3D+%7B;++role%3A+%22Web+Developer%22%2C;++stack%3A+%5B%22HTML%22%2C+%22CSS%22%2C+%22JS%22%5D%2C;++location%3A+%22Dharmapuri%22%2C;++learning%3A+%22every+week%22;%7D%3B" alt="Code typing"/>
 
 </td>
 </tr>
